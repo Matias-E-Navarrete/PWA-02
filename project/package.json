@@ -1,0 +1,32 @@
+{
+  "name": "project",
+  "version": "0.0.1",
+  "description": "Clase 02 de programación web avanzado",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matias-E-Navarrete/PWA-02.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Matias E. Navarrete",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Matias-E-Navarrete/PWA-02/issues"
+  },
+  "homepage": "https://github.com/Matias-E-Navarrete/PWA-02#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "type": "module"
+}
